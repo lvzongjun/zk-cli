@@ -1,7 +1,7 @@
 {
-  "name": "izk-cli",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "{{description}}",
   "author": "lzj <lzj880518@126.com>",
   "private": true,
   "scripts": {
